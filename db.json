@@ -17,7 +17,7 @@
       "medicines": {
         "abc": 2,
         "xyz": 3
-      }
+      },"total":5
     },
     {
       "patientID":2,
@@ -27,7 +27,7 @@
       "medicines": {
         "abc": 2,
         "xyz+": 3
-      }
+      },"total":5
     },
     {
       "patientID":3,
@@ -37,7 +37,7 @@
       "medicines": {
         "abc+": 2,
         "xyz+": 3
-      }
+      },"total":5
     },
     {
       "patientID":4,
@@ -47,7 +47,7 @@
       "medicines": {
         "abc-": 2,
         "xyz-": 3
-      }
+      },"total":5
     },
     {
       "patientID":5,
@@ -57,7 +57,7 @@
       "medicines": {
         "abc++++": 2,
         "++++ijk": 3
-      }
+      },"total":5
     },
     {
       "patientID":6,
@@ -67,7 +67,7 @@
       "medicines": {
         "Crazyabc+++": 2,
         "Dumb+++": 3
-      }
+      },"total":5
     },
     {
       "patientID":7,
@@ -77,7 +77,7 @@
       "medicines": {
         "Vitamin": 2,
         "Fightomins++": 3
-      }
+      },"total":5
     },
     {
       "patientID":8,
@@ -88,7 +88,7 @@
         "abc++": 2,
         "xyz++": 3,
         "vwye++":15
-      }
+      },"total":18
     },
     {
       "patientID":9,
@@ -99,7 +99,7 @@
         "abc": 2,
         "xyz": 3,
         "SavageAF++":10
-      }
+      },"total":15
     },
     {
       "patientID":10,
@@ -109,7 +109,7 @@
       "medicines": {
         "abc": 2,
         "xyz": 3
-      }
+      },"total":5
     }
 
   ]
